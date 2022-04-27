@@ -43,7 +43,7 @@ metadata:
   name: example-ingress
 spec:
   rules:
-    - host: dipakparmar.com
+    - host: man.com
       http:
         paths:
           - path: /
