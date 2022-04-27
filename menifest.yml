@@ -15,7 +15,7 @@ spec:
             containers:
                 - name: example-api
                   imagePullPolicy: Never
-                  image: dipak:latest
+                  image: man:latest
                   resources:
                       limits:
                           cpu: 50m
